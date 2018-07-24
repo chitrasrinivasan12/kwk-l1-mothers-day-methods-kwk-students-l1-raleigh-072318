@@ -4,3 +4,6 @@ def mothers_day = "Happy Mother's Day, Mom!"
   puts "Happy Mother's Day, Mom!"
 end
 
+def mothers_dayP("Beyonce")
+  puts "Happy Mother's Day, #{name}!"
+end
